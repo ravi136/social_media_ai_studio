@@ -1,0 +1,27 @@
+Your marketing Book - Extract Page-by-Page text from the PDF
+⬇
+Embedings -> Convert the book's passages into numerical vectors
+⬇
+ChromaDb -> Search for relevant marketing knowledge
+⬇
+Advance Prompting -> Combine the knowledge with business, audience and platform requirements
+⬇
+AI-generated content -> Produce original posts, recommendations and page references
+
+
+How the aplication is going to work
+------------------------------------
+
+Upload -> candidates rovide their knowledge document
+⬇
+Chunking -> Large documents become samller passages
+⬇
+Embeding -> OpenAI Embeding Model will convert passages into vectors
+⬇
+Store -> ChromaDb indexes the vectors
+⬇
+Retrieve -> The app searches for the relevant passages
+⬇
+Prompt -> Advance instructions control in the form of writing
+⬇
+Generate -> The LLM creates the social media post
